@@ -17,6 +17,22 @@
          "Weight":917.431
       },
       {
+         "TypeID":"F.1",
+         "Material":"Reinforcement",
+         "Quality":"K",
+         "Length":0.0,
+         "Volume":0.0,
+         "Weight":50.209
+      },
+      {
+         "TypeID":"F.1",
+         "Material":"Reinforcement",
+         "Quality":"K",
+         "Length":0.0,
+         "Volume":0.0,
+         "Weight":49.85
+      },
+      {
          "TypeID":"B.1",
          "Material":"Steel",
          "Quality":"S 275",
@@ -155,6 +171,38 @@
          "Area":32.0,
          "Thickness":0.2,
          "Weight":2560.0
+      },
+      {
+         "TypeID":"PP.1",
+         "Material":"Prefabricated Concrete",
+         "Quality":"C12/15",
+         "Area":6.0,
+         "Thickness":0.18,
+         "Weight":7.182
+      },
+      {
+         "TypeID":"PP.1",
+         "Material":"Prefabricated Concrete",
+         "Quality":"C12/15",
+         "Area":6.0,
+         "Thickness":0.40,
+         "Weight":4.782
+      },
+      {
+         "TypeID":"TP.1",
+         "Material":"CLT",
+         "Quality":"L(T)60-3S",
+         "Area":9.0,
+         "Thickness":0.06,
+         "Weight":216.0
+      },
+      {
+         "TypeID":"TP.1",
+         "Material":"CLT",
+         "Quality":"L(T)60-3S",
+         "Area":2.88,
+         "Thickness":0.06,
+         "Weight":69.12
       }
    ],
    "Wall":[

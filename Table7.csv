@@ -18,7 +18,7 @@ Aluminiumsplade;1;KG;1,00;10.46;;;;Generic Dataset;Bilag 2, tabel 7: Generisk da
 Aluminiumsprofil;1;KG;1,00;10.68;;;;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
 Ammoniak (R717);1;KG;1,00;2.49;;;;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
 Anhydrit mix;1;KG;1,00;0.09;;;;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
-Armeringsnet;1;KG;1,00;0.68;;;;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
+Armeringsnet;1;KG;1,00;0.68;;0.00068207;-0.393;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
 Asfalt, bærelag;1;KG;1,00;0.07;0.00;;0.03;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
 Badekar, bruserbakke, akryl;1;KG;1,00;4.21;3.16;;-1.08;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
 Beslag til dreje-kip vinduer (aluminium);1;Pcs;1647,00;12.37;;;;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
@@ -126,14 +126,10 @@ ETICS limning og silikonepuds;1;M2;12,30;5.48;0.00;0.19;;Generic Dataset;Bilag 2
 ETICS-limning og belægning af syntetiskharpikspuds;1;M2;12,48;6.70;0.00;0.19;;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
 ETICS-limning og belægning afsilikatdispersionspuds;1;M2;12,48;5.48;0.00;;;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
 EVA-tagmembran;1;M2;2,00;5.13;7.97;;-3.61;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
-Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (fundament);1;M3;2212,00;;;5.13;-4.74;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
-Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (indvendig væg);1;M3;2212,00;215.00;;5.13;-4.74;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
-Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (gulv);1;M3;2246,00;;;4.97;-4.60;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
-Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg);1;M3;2246,00;241.00;6.73;4.97;;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
-Fabriksbeton (C20/25 SCC og C25/30) ieksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (fundament);1;M3;2212,00;215.00;6.94;;;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
-Fabriksbeton (C20/25 SCC og C25/30) ieksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (indvendig væg);1;M3;2212,00;;6.94;;;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
-Fabriksbeton (C20/25 SCC og C25/30) ieksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (gulv);1;M3;2246,00;241.00;6.73;;;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
-Fabriksbeton (C20/25 SCC og C25/30) ieksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg);1;M3;2246,00;;;;-4.60;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
+Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (fundament);1;M3;2212,00;215.00;6.94;5.13;-4.74;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
+Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (indvendig væg);1;M3;2212,00;215.00;6.94;5.13;-4.74;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
+Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (gulv);1;M3;2246,00;241.00;6.73;4.97;-4.60;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
+Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg);1;M3;2246,00;241.00;6.73;4.97;-4.60;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
 Fabriksbeton (C30/37, C35/45 SCC), C30/37 (Bundplade);1;M3;2255,00;;6.72;;;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
 Fabriksbeton (C30/37, C35/45 SCC), C30/37(Bundplade);1;M3;2255,00;282.00;;4.97;-4.60;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
 Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg);1;M3;2255,00;282.00;6.72;4.97;-4.60;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
@@ -141,12 +137,11 @@ Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (gulv);1;M3;2254,00;300.00;6.54;4.8
 Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (Indvendig væg);1;M3;2254,00;300.00;6.54;4.83;-4.47;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
 Fabriksbeton(C35/45), C35/45 – CEM I (Sætmålsbeton);1;M3;2267,00;362.00;7.07;5.23;-4.84;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
 Fabriksbeton(C35/45), C35/45 (fugebeton);1;M3;2256,00;377.00;6.63;4.90;-4.54;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
-Fabriksbeton(C35/45), C35/45–CEM I SR-5 (Sætmålsbeton);1;M3;2304,00;403.00;6.85;5.06;-4.68;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
-Fabriksbeton(C40/50, C45/55), C40/50 – CEM I (Indvendig væg);1;M3;2267,00;429.00;;;;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
-Fabriksbeton(C40/50, C45/55), C40/50 –CEM I (Fundament);1;M3;2267,00;429.00;6.77;5.00;-4.63;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
-Fabriksbeton(C40/50, C45/55), C40/50 –CEM I (Indvendig væg);1;M3;2267,00;;6.77;5.00;-4.63;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
-Fabriksbeton(C40/50, C45/55), C40/50 –CEM I SR-5 (Fundament);1;M3;2284,00;465.00;6.95;5.14;-4.76;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
-Fabriksbeton(C40/50, C45/55), C40/50 –CEM I SR-5 (Indvendig væg);1;M3;2284,00;465.00;6.95;5.14;-4.76;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
+Fabriksbeton(C35/45), C35/45 –CEM I SR-5 (Sætmålsbeton);1;M3;2304,00;403.00;6.85;5.06;-4.68;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
+Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Fundament);1;M3;2267,00;429.00;6.77;5.00;-4.63;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
+Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Indvendig væg);1;M3;2267,00;429.00;6.77;5.00;-4.63;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
+Fabriksbeton(C40/50, C45/55), C40/50 CEM I SR-5 (Fundament);1;M3;2284,00;465.00;6.95;5.14;-4.76;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
+Fabriksbeton(C40/50, C45/55), C40/50 CEM I SR-5 (Indvendig væg);1;M3;2284,00;465.00;6.95;5.14;-4.76;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
 Fabriksbeton(C40/50, C45/55), C45/55 (Fundament);1;M3;2229,00;426.00;6.75;4.99;-4.62;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
 Fabriksbeton(C40/50, C45/55), C45/55 (Indvendig væg);1;M3;2229,00;426.00;6.75;4.99;-4.62;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023
 Facadeklinker;1;M3;2000,00;541.90;13.45;;-4.11;Generic Dataset;Bilag 2, tabel 7: Generisk datagrundlag 2023

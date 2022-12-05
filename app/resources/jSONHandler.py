@@ -4,19 +4,16 @@ with open('structuralElements.json') as f:
     structuralElements = json.load(f)
 
 for beam in structuralElements['Beam']:
-    print(beam['MaterialID'],beam['Volume'])
+    print(beam['Material'],beam['Volume'])
 
 for column in structuralElements['Column']:
-    print(column['MaterialID'],column['Volume'])
+    print(column['Material'],column['Volume'])
 
 for deck in structuralElements['Deck']:
-    print(deck['MaterialID'],deck['Area'])
+    print(deck['Material'],deck['Area'])
 
-for exteriorWall in structuralElements['ExteriorWall']:
-    print(exteriorWall['MaterialID'],exteriorWall['Area'])
+for Wall in structuralElements['Wall']:
+    print(Wall['Material'],Wall['Area'])
 
-for interiorWall in structuralElements['InteriorWall']:
-    print(interiorWall['MaterialID'],interiorWall['Area'])
-
-for foundation in structuralElements['Foundation']:
-    print(foundation['MaterialID'],foundation['Volume'])
+#for foundation in structuralElements['Foundation']:#
+    #print(foundation['Material'],foundation['Volume'])
