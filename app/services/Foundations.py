@@ -2,22 +2,14 @@ import json
 import pandas as pd
 import re
 import numpy as np
+from app.resources import dataHandling
 
-#Working with the JSON files from the VC databse (Or this case directly from the c# codes)
-with open('StructuralElements2.json') as f:
-    structuralElements = json.load(f)
+#Working with the JSON files from the VC database
+structuralElements = dataHandling.structuralElements
+#Reading the LCA dataframe
+LCA_Data = dataHandling.LCA_Data
 
-#Reading the LCA dataframe based on a .csv file
-LCA_Data = pd.read_csv('Table7.csv', sep=';')
-
-#Converting relevant columns to floats
-LCA_Data['A1tilA3'] = LCA_Data['A1tilA3'].astype(np.double)
-LCA_Data['C3'] = LCA_Data['C3'].astype(np.double)
-LCA_Data['C4'] = LCA_Data['C4'].astype(np.double)
-LCA_Data['D'] = LCA_Data['D'].astype(np.double)
-LCA_Data['Massefaktor'] = LCA_Data['Massefaktor'].str.replace(',','.')
-LCA_Data['Massefaktor'] = LCA_Data['Massefaktor'].astype(np.double)
-
+foundationsGWP_list= []
 sumGWP_A1tilA3 = 0
 sumGWP_C3 = 0
 sumGWP_C4 = 0 
@@ -80,7 +72,15 @@ if 'Foundation' in structuralElements:
     sumGWP_C3 +=foundationsGWP["GWP_C3"]
     sumGWP_C4 +=foundationsGWP["GWP_C4"]
     sumGWP_D +=foundationsGWP["GWP_D"]
+    foundationsForList = [foundation['TypeID'],np.nansum(FoundationGWPA1A3), np.nansum(FoundationGWP_C3), np.nansum(FoundationGWP_C4), np.nansum(FoundationGWP_D)]
+    foundationsGWP_list.append(foundationsForList)
 
 foundationsGWP_Total = sumGWP_A1tilA3 + sumGWP_C3 + sumGWP_C4 + sumGWP_D 
 print(sumGWP_A1tilA3, sumGWP_C3, sumGWP_C4, sumGWP_D)
 print(foundationsGWP_Total) 
+
+foundationsGWP_summed = {"A1-A3":sumGWP_A1tilA3, "C3":sumGWP_C3, "C4": sumGWP_C4, "D":sumGWP_D, "Total":foundationsGWP_Total}
+with open ("Foundations_GWP.json","w") as outfile:
+    json.dump(foundationsGWP_summed, outfile, indent=2)
+with open("Foundations_list.json","w") as outfile:
+    json.dump(foundationsGWP_list, outfile, indent=1)

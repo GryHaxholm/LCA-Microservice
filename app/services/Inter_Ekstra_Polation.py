@@ -1,16 +1,15 @@
 import pandas as pd
 import re
 import numpy as np
-from scipy.interpolate import interp1d
-from scipy.interpolate import interp2d
+from scipy.interpolate import interp1d, interp2d
 import json
+from app.resources import dataHandling
 
-#Working with the JSON files from the VC databse (Or this case directly from the c# codes)
-with open('StructuralElements2.json') as f:
-    structuralElements = json.load(f)
-
-#Reading the LCA dataframe based on a .csv file
-LCA_Data = pd.read_csv('Table7.csv', sep=';')
+#Working with the JSON files from the VC database
+with open('app/resources/StructuralElements2.json') as f:
+    structuralElements = dataHandling.structuralElements
+#Reading the LCA dataframe
+LCA_Data = dataHandling.LCA_Data
 
 #for interpolation between 220 and 320 hollowcore deck
 x_data = (0.22,0.32)
