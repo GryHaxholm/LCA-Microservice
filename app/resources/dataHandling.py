@@ -4,7 +4,7 @@ import re
 import numpy as np
 
 #Working with the JSON files from the VC database (Or this case directly from the c# codes)
-with open('app/resources/StructuralElements2.json') as f:
+with open('app/resources/StructuralElements.json') as f:
     structuralElements = json.load(f)
 
 #Reading the LCA dataframe based on a .csv file

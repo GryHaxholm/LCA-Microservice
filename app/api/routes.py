@@ -2,28 +2,28 @@ from app import app
 from flask import request
 from app.services import Beams, Decks, Foundations, Columns, Walls
 
-@app.route('/')
-@app.route('/beams', methods=['POST'])
+#@app.route('/') Måske lav noget til 'forsiden'.
+@app.route('/beams', methods=['GET'])
 def beams():
     return Beams.beamsGWP_summed 
      #Mangler listen af bjælker.  
 
-@app.route('/decks', methods=['POST'])
+@app.route('/decks', methods=['GET'])
 def decks():
     return Decks.decksGWP_summed 
       #Mangler listen af decks.  
 
-@app.route('/foundations', methods=['POST'])
+@app.route('/foundations', methods=['GET'])
 def foundations():
     return Foundations.foundationsGWP_summed 
       #Mangler listen af foundation
 
-@app.route('/columns', methods=['POST'])
+@app.route('/columns', methods=['GET'])
 def columns():
     return Columns.columnsGWP_summed 
      #Mangler listen af columns.      
 
-@app.route('/walls', methods=['POST'])
+@app.route('/walls', methods=['GET'])
 def walls():
     return Walls.wallsGWP_summed 
      #Mangler listen af walls.       

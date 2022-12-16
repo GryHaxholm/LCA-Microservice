@@ -6,8 +6,7 @@ import json
 from app.resources import dataHandling
 
 #Working with the JSON files from the VC database
-with open('app/resources/StructuralElements2.json') as f:
-    structuralElements = dataHandling.structuralElements
+structuralElements = dataHandling.structuralElements
 #Reading the LCA dataframe
 LCA_Data = dataHandling.LCA_Data
 

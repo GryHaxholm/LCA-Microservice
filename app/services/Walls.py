@@ -21,32 +21,32 @@ sumGWP_D = 0
 if 'Wall' in structuralElements:
     for wall in structuralElements['Wall']:
         if wall['Material'] == "Concrete":
-            if wall['Quality'] == "C20/25" or "C12/15" or "C16/20":
+            if  "C20/25" or "C12/15" or "C16/20" in wall['Quality']:
                 WallGWPA1A3 = (wall['Thickness']* wall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (indvendig væg)']['A1tilA3']
                 WallGWP_C3 = (wall['Thickness']* wall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (indvendig væg)']['C3']
                 WallGWP_C4 = (wall['Thickness']* wall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (indvendig væg)']['C4']
                 WallGWP_D = (wall['Thickness']* wall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (indvendig væg)']['D']
-            elif wall['Quality'] == "C25/30":
+            elif "C25/30" in wall['Quality']:
                 WallGWPA1A3 = (wall['Thickness']* wall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['A1tilA3']
                 WallGWP_C3 = (wall['Thickness']* wall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['C3']
                 WallGWP_C4 = (wall['Thickness']* wall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['C4']
                 WallGWP_D = (wall['Thickness']* wall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['D']
-            elif wall['Quality'] =="C30/37":
+            elif "C30/37" in wall['Quality']:
                 WallGWPA1A3 = wall['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['A1tilA3']
                 WallGWP_C3 = wall['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['C3']
                 WallGWP_C4 = wall['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['C4']
                 WallGWP_D = wall['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['D']
-            elif wall['Quality'] == "C35/45":
+            elif "C35/45" in wall['Quality']:
                 WallGWPA1A3 = (wall['Thickness']* wall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (gulv)']['A1tilA3']
                 WallGWP_C3 = (wall['Thickness']* wall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (gulv)']['C3']
                 WallGWP_C4 = (wall['Thickness']* wall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (gulv)']['C4']
                 WallGWP_D = (wall['Thickness']* wall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (gulv)']['D']
-            elif wall['Quality'] == "C40/50":
+            elif "C40/50" in wall['Quality']:
                 WallGWPA1A3 = wall['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Indvendig væg)']['A1tilA3']
                 WallGWP_C3 = wall['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Indvendig væg)']['C3']
                 WallGWP_C4 = wall['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Indvendig væg)']['C4']
                 WallGWP_D = wall['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Indvendig væg)']['D']
-            elif wall['Quality'] == "C45/55":
+            elif "C45/55" in wall['Quality']:
                 WallGWPA1A3 = (wall['Thickness']* wall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C45/55 (Indvendig væg)']['A1tilA3']
                 WallGWP_C3 = (wall['Thickness']* wall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C45/55 (Indvendig væg)']['C3']
                 WallGWP_C4 = (wall['Thickness']* wall['Area'])* LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C45/55 (Indvendig væg)']['C4']
@@ -56,13 +56,13 @@ if 'Wall' in structuralElements:
                 WallGWP_C3 = "Manual input needed"  
                 WallGWP_C4 = "Manual input needed" 
                 WallGWP_D = "Manual input needed" 
-        elif wall['Material'] == "Timber":
-            if 'C' in wall['Quality']:
+        elif wall['Material'] == "Timber" or "Wood":
+            if 'C' or 'Timber' in wall['Quality']:
                 WallGWPA1A3 = wall['Weight'] * (LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran']['A1tilA3'] / LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran']['Massefaktor'])
                 WallGWP_C3 = wall['Weight'] * (LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran, Forbrænding']['C3'] / LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran, Forbrænding']['Massefaktor'])
                 WallGWP_C4 = wall['Weight'] * (LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran, Forbrænding']['C4'] / LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran, Forbrænding']['Massefaktor'])
                 WallGWP_D = wall['Weight'] * (LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran, Forbrænding']['D'] / LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran, Forbrænding']['Massefaktor'])
-            elif 'GL' in wall['Quality']:
+            elif 'GL' or 'Glulam' in wall['Quality']:
                 WallGWPA1A3 = wall['Weight'] * (LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran']['A1tilA3'] / LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran']['Massefaktor'])
                 WallGWP_C3 = wall['Weight'] * (LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran, Forbrænding']['C3'] / LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran, Forbrænding']['Massefaktor'])
                 WallGWP_C4 = wall['Weight'] * (LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran, Forbrænding']['C4'] / LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran, Forbrænding']['Massefaktor'])
@@ -100,7 +100,7 @@ print(sumGWP_A1tilA3, sumGWP_C3, sumGWP_C4, sumGWP_D)
 print(wallsGWP_Total) 
 
 wallsGWP_summed = {"A1-A3":sumGWP_A1tilA3, "C3":sumGWP_C3, "C4": sumGWP_C4, "D":sumGWP_D, "Total":wallsGWP_Total}
-with open ("Walls_GWP.json","w") as outfile:
+with open ("resultsFiles/Walls_GWP.json","w") as outfile:
     json.dump(wallsGWP_summed, outfile, indent=2)
-with open("Walls_list.json","w") as outfile:
+with open("resultsFiles/Walls_list.json","w") as outfile:
     json.dump(wallsGWP_list, outfile, indent=1)

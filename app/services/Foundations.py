@@ -17,33 +17,33 @@ sumGWP_D = 0
 #GWP for Foundations 
 if 'Foundation' in structuralElements:
     for foundation in structuralElements['Foundation']:
-        if foundation['Material'] == "Concrete":
-            if foundation['Quality'] == "C20/25" or "C12/15" or "C16/20":
+        if "Concrete" in foundation['Material']:
+            if "C20/25" or "C12/15" or "C16/20" in foundation['Quality']:
                 FoundationGWPA1A3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (fundament)']['A1tilA3']
                 FoundationGWP_C3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (fundament)']['C3']
                 FoundationGWP_C4 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (fundament)']['C4']
                 FoundationGWP_D = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (fundament)']['D']
-            elif foundation['Quality'] == "C25/30":
+            elif "C25/30" in foundation['Quality']:
                 FoundationGWPA1A3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['A1tilA3']
                 FoundationGWP_C3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['C3']
                 FoundationGWP_C4 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['C4']
                 FoundationGWP_D = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['D']
-            elif foundation['Quality'] =="C30/37":
+            elif "C30/37" in foundation['Quality']:
                 FoundationGWPA1A3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['A1tilA3']
                 FoundationGWP_C3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['C3']
                 FoundationGWP_C4 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['C4']
                 FoundationGWP_D = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['D']
-            elif foundation['Quality'] == "C35/45":
+            elif "C35/45" in foundation['Quality']:
                 FoundationGWPA1A3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (gulv)']['A1tilA3']
                 FoundationGWP_C3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (gulv)']['C3']
                 FoundationGWP_C4 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (gulv)']['C4']
                 FoundationGWP_D = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (gulv)']['D']
-            elif foundation['Quality'] == "C40/50":
+            elif "C40/50" in foundation['Quality']:
                 FoundationGWPA1A3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Fundament)']['A1tilA3']
                 FoundationGWP_C3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Fundament)']['C3']
                 FoundationGWP_C4 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Fundament)']['C4']
                 FoundationGWP_D = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Fundament)']['D']
-            elif foundation['Quality'] == "C45/55":
+            elif "C45/55" in foundation['Quality']:
                 FoundationGWPA1A3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C45/55 (Fundament)']['A1tilA3']
                 FoundationGWP_C3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C45/55 (Fundament)']['C3']
                 FoundationGWP_C4 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C45/55 (Fundament)']['C4']
@@ -66,21 +66,21 @@ if 'Foundation' in structuralElements:
         else: 
             print(False)
     
-    foundationsGWP = {"TypeID":foundation['TypeID'], "Material": foundation['Material'], "Quality": foundation['Quality'], "Volume": foundation['Volume'], "Weight": foundation['Weight'], "GWP_A1-A3": np.nansum(BeamGWPA1A3), "GWP_C3": np.nansum(BeamGWP_C3), "GWP_C4": np.nansum(BeamGWP_C4), "GWP_D": np.nansum(BeamGWP_D)}
-    print(foundationsGWP)
-    sumGWP_A1tilA3 +=foundationsGWP["GWP_A1-A3"]
-    sumGWP_C3 +=foundationsGWP["GWP_C3"]
-    sumGWP_C4 +=foundationsGWP["GWP_C4"]
-    sumGWP_D +=foundationsGWP["GWP_D"]
-    foundationsForList = [foundation['TypeID'],np.nansum(FoundationGWPA1A3), np.nansum(FoundationGWP_C3), np.nansum(FoundationGWP_C4), np.nansum(FoundationGWP_D)]
-    foundationsGWP_list.append(foundationsForList)
+        foundationsGWP = {"TypeID":foundation['TypeID'], "Material": foundation['Material'], "Quality": foundation['Quality'], "Volume": foundation['Volume'], "GWP_A1-A3": np.nansum(FoundationGWPA1A3), "GWP_C3": np.nansum(FoundationGWP_C3), "GWP_C4": np.nansum(FoundationGWP_C4), "GWP_D": np.nansum(FoundationGWP_D)}
+        print(foundationsGWP)
+        sumGWP_A1tilA3 +=foundationsGWP["GWP_A1-A3"]
+        sumGWP_C3 +=foundationsGWP["GWP_C3"]
+        sumGWP_C4 +=foundationsGWP["GWP_C4"]
+        sumGWP_D +=foundationsGWP["GWP_D"]
+        foundationsForList = [foundation['TypeID'],np.nansum(FoundationGWPA1A3), np.nansum(FoundationGWP_C3), np.nansum(FoundationGWP_C4), np.nansum(FoundationGWP_D)]
+        foundationsGWP_list.append(foundationsForList)
 
 foundationsGWP_Total = sumGWP_A1tilA3 + sumGWP_C3 + sumGWP_C4 + sumGWP_D 
 print(sumGWP_A1tilA3, sumGWP_C3, sumGWP_C4, sumGWP_D)
 print(foundationsGWP_Total) 
 
 foundationsGWP_summed = {"A1-A3":sumGWP_A1tilA3, "C3":sumGWP_C3, "C4": sumGWP_C4, "D":sumGWP_D, "Total":foundationsGWP_Total}
-with open ("Foundations_GWP.json","w") as outfile:
+with open ("resultsFiles/Foundations_GWP.json","w") as outfile:
     json.dump(foundationsGWP_summed, outfile, indent=2)
-with open("Foundations_list.json","w") as outfile:
+with open("resultsFiles/Foundations_list.json","w") as outfile:
     json.dump(foundationsGWP_list, outfile, indent=1)
