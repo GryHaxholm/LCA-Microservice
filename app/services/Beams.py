@@ -20,32 +20,32 @@ sumGWP_D = 0
 if 'Beam' in structuralElements:
     for beam in structuralElements['Beam']:
         if beam['Material'] == "Concrete":
-            if "C20/25" or "C12/15" or "C16/20" in beam['Quality']:
+            if beam['Quality'] == "C20/25" or beam['Quality']=="Concrete, C20/25" or beam['Quality']=="C12/15" or beam['Quality']=="Concrete, C12/15" or beam['Quality']=="C16/20" or beam['Quality']=="Concrete, C16/20":
                 BeamGWPA1A3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (indvendig væg)']['A1tilA3']
                 BeamGWP_C3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (indvendig væg)']['C3']
                 BeamGWP_C4 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (indvendig væg)']['C4']
                 BeamGWP_D = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (indvendig væg)']['D']
-            elif "C25/30" in beam['Quality']:
+            elif beam['Quality'] == "C25/30" or beam['Quality'] =="Concrete, C25/30":
                 BeamGWPA1A3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['A1tilA3']
                 BeamGWP_C3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['C3']
                 BeamGWP_C4 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['C4']
                 BeamGWP_D = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['D']
-            elif "C30/37" in beam['Quality']:
+            elif beam['Quality'] == "30/37" or beam['Quality'] == "Concrete, C30/37":
                 BeamGWPA1A3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['A1tilA3']
                 BeamGWP_C3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['C3']
                 BeamGWP_C4 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['C4']
                 BeamGWP_D = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['D']
-            elif "C35/45" in beam['Quality']:
+            elif beam['Quality']== "C35/45" or beam['Quality'] == "Concrete, C35/45":
                 BeamGWPA1A3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (Indvendig væg)']['A1tilA3']
                 BeamGWP_C3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (Indvendig væg)']['C3']
                 BeamGWP_C4 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (Indvendig væg)']['C4']
                 BeamGWP_D = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (Indvendig væg)']['D']
-            elif "C40/50" in beam['Quality']:
+            elif beam['Quality'] == "C40/50" or beam['Quality'] =="Concrete, C40/50":
                 BeamGWPA1A3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Indvendig væg)']['A1tilA3']
                 BeamGWP_C3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Indvendig væg)']['C3']
                 BeamGWP_C4 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Indvendig væg)']['C4']
                 BeamGWP_D = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Indvendig væg)']['D']
-            elif "C45/55" in beam['Quality']:
+            elif beam['Quality']== "C45/55" or beam['Quality']=="Concrete, C45/55":
                 BeamGWPA1A3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C45/55 (Indvendig væg)']['A1tilA3']
                 BeamGWP_C3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C45/55 (Indvendig væg)']['C3']
                 BeamGWP_C4 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C45/55 (Indvendig væg)']['C4']

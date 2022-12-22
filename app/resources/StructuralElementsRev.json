@@ -4357,20 +4357,6 @@
          "Quality":"Concrete, C30/37",
          "Area":4.4687,
          "Thickness":0.1
-      },
-      {
-         "TypeID":427519,
-         "Material":"Concrete, C30/37",
-         "Quality":"Concrete, C30/37",
-         "Area":1440.5,
-         "Thickness":0.1
-      },
-      {
-         "TypeID":1205079,
-         "Material":"Glulam 24c",
-         "Quality":"Glulam 24c",
-         "Area":15.273,
-         "Thickness":0.29
       }
    ],
    "ExteriorWall":[

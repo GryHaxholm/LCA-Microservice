@@ -18,32 +18,32 @@ sumGWP_D = 0
 if 'Foundation' in structuralElements:
     for foundation in structuralElements['Foundation']:
         if "Concrete" in foundation['Material']:
-            if "C20/25" or "C12/15" or "C16/20" in foundation['Quality']:
+            if foundation['Quality'] == "C20/25" or foundation['Quality']=="Concrete, C20/25" or foundation['Quality']=="C12/15" or foundation['Quality']=="Concrete, C12/15" or foundation['Quality']=="C16/20" or foundation['Quality']=="Concrete, C16/20": 
                 FoundationGWPA1A3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (fundament)']['A1tilA3']
                 FoundationGWP_C3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (fundament)']['C3']
                 FoundationGWP_C4 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (fundament)']['C4']
                 FoundationGWP_D = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (fundament)']['D']
-            elif "C25/30" in foundation['Quality']:
+            elif foundation['Quality'] == "C25/30" or foundation['Quality']=="Concrete, C25/30":
                 FoundationGWPA1A3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['A1tilA3']
                 FoundationGWP_C3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['C3']
                 FoundationGWP_C4 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['C4']
                 FoundationGWP_D = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['D']
-            elif "C30/37" in foundation['Quality']:
+            elif foundation['Quality'] == "30/37" or foundation['Quality'] == "Concrete, C30/37":
                 FoundationGWPA1A3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['A1tilA3']
                 FoundationGWP_C3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['C3']
                 FoundationGWP_C4 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['C4']
                 FoundationGWP_D = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['D']
-            elif "C35/45" in foundation['Quality']:
+            elif foundation['Quality']== "C35/45" or foundation['Quality'] == "Concrete, C35/45":
                 FoundationGWPA1A3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (gulv)']['A1tilA3']
                 FoundationGWP_C3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (gulv)']['C3']
                 FoundationGWP_C4 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (gulv)']['C4']
                 FoundationGWP_D = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C35/45SCC (gulv)']['D']
-            elif "C40/50" in foundation['Quality']:
+            elif foundation['Quality'] == "C40/50" or foundation['Quality'] =="Concrete, C40/50":
                 FoundationGWPA1A3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Fundament)']['A1tilA3']
                 FoundationGWP_C3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Fundament)']['C3']
                 FoundationGWP_C4 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Fundament)']['C4']
                 FoundationGWP_D = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C40/50 CEM I (Fundament)']['D']
-            elif "C45/55" in foundation['Quality']:
+            elif foundation['Quality'] =="C45/55" or foundation['Quality'] =="Concrete, C45/55":
                 FoundationGWPA1A3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C45/55 (Fundament)']['A1tilA3']
                 FoundationGWP_C3 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C45/55 (Fundament)']['C3']
                 FoundationGWP_C4 = foundation['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton(C40/50, C45/55), C45/55 (Fundament)']['C4']

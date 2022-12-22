@@ -1,6 +1,6 @@
 from app import app
 from flask import request
-from app.services import Beams, Decks, Foundations, Columns, Walls
+from app.services import Beams, Decks, Foundations, Columns, Walls, ExteriorWalls, InteriorWalls
 
 #@app.route('/') Måske lav noget til 'forsiden'.
 @app.route('/beams', methods=['GET'])
@@ -26,4 +26,14 @@ def columns():
 @app.route('/walls', methods=['GET'])
 def walls():
     return Walls.wallsGWP_summed 
-     #Mangler listen af walls.       
+     #Mangler listen af walls.     
+
+@app.route('/exteriorwalls', methods=['GET'])
+def exteriorwalls():
+    return ExteriorWalls.exteriorWallsGWP_summed
+     #Mangler listen af walls.    
+
+@app.route('/interiorwalls', methods=['GET'])
+def interiorwalls():
+    return InteriorWalls.interiorWallsGWP_summed
+     #Mangler listen af walls.    
