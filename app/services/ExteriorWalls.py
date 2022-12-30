@@ -46,7 +46,7 @@ if 'ExteriorWall' in structuralElements:
                 ExteriorWallGWP_C3 = (exteriorWall['Thickness']* exteriorWall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['C3']
                 ExteriorWallGWP_C4 = (exteriorWall['Thickness']* exteriorWall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['C4']
                 ExteriorWallGWP_D = (exteriorWall['Thickness']* exteriorWall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['D']
-            elif exteriorWall['Quality'] == "30/37" or exteriorWall['Quality'] == "Concrete, C30/37":
+            elif exteriorWall['Quality'] == "C30/37" or exteriorWall['Quality'] == "Concrete, C30/37":
                 ExteriorWallGWPA1A3 = (exteriorWall['Thickness']* exteriorWall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['A1tilA3']
                 ExteriorWallGWP_C3 = (exteriorWall['Thickness']* exteriorWall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['C3']
                 ExteriorWallGWP_C4 = (exteriorWall['Thickness']* exteriorWall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['C4']
@@ -71,7 +71,7 @@ if 'ExteriorWall' in structuralElements:
                 ExteriorWallGWP_C3 = "Manual input needed"  
                 ExteriorWallGWP_C4 = "Manual input needed" 
                 ExteriorWallGWP_D = "Manual input needed" 
-        elif "Prefabricated Concrete" or "Precast" in exteriorWall['Material']:
+        elif "Prefabricated Concrete" in exteriorWall['Material'] or "Precast" in exteriorWall['Material']:
             if exteriorWall['Thickness'] == 0.15:
                 ExteriorWallGWPA1A3 = exteriorWall['Area'] * LCA_Data.loc[LCA_Data['Navn']== 'Beton vægelementer, Beton vægelementer, 15 cm tyk væg med 5-15 kg armering']['A1tilA3']
                 ExteriorWallGWP_C3 = exteriorWall['Area'] * LCA_Data.loc[LCA_Data['Navn']== 'Beton vægelementer, Beton vægelementer, 15 cm tyk væg med 5-15 kg armering']['C3']
@@ -102,7 +102,7 @@ if 'ExteriorWall' in structuralElements:
                 ExteriorWallGWP_C3 = "Manual input needed"  
                 ExteriorWallGWP_C4 = "Manual input needed" 
                 ExteriorWallGWP_D = "Manual input needed" 
-        elif exteriorWall['Material'] == "Timber" or "Wood":
+        elif exteriorWall['Material'] == "Timber" or exteriorWall['Material'] == "Wood":
             if 'C' or 'Timber' in exteriorWall['Quality']:
                 ExteriorWallGWPA1A3 = (exteriorWall['Thickness']* exteriorWall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran']['A1tilA3'] 
                 ExteriorWallGWP_C3 = (exteriorWall['Thickness']* exteriorWall['Area']) * LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran, Forbrænding']['C3'] 

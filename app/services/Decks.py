@@ -35,7 +35,7 @@ sumGWP_D = 0
 #GWP for Decks 
 if 'Deck' in structuralElements:
     for deck in structuralElements['Deck']:
-        if "Concrete" in deck['Material']:
+        if "Concrete" in deck['Material'] and ("Prefabricated" not in deck['Material'] and "Precast" not in deck['Material']):
             if  deck['Quality'] == "C20/25" or deck['Quality']=="Concrete, C20/25" or deck['Quality']=="C12/15" or deck['Quality']=="Concrete, C12/15" or deck['Quality']=="C16/20" or deck['Quality']=="Concrete, C16/20":
                 DeckGWPA1A3 = deck['Thickness'] * deck['Area'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (indvendig væg)']['A1tilA3']
                 DeckGWP_C3 = deck['Thickness'] * deck['Area'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C20/25 SCC (indvendig væg)']['C3']
@@ -46,7 +46,7 @@ if 'Deck' in structuralElements:
                 DeckGWP_C3 = deck['Thickness'] * deck['Area'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['C3']
                 DeckGWP_C4 = deck['Thickness'] * deck['Area'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['C4']
                 DeckGWP_D = deck['Thickness']* deck['Area'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['D']
-            elif deck['Quality'] == "30/37" or deck['Quality'] == "Concrete, C30/37":
+            elif deck['Quality'] == "C30/37" or deck['Quality'] == "Concrete, C30/37":
                 DeckGWPA1A3 = deck['Thickness'] * deck['Area'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['A1tilA3']
                 DeckGWP_C3 = deck['Thickness'] * deck['Area'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['C3']
                 DeckGWP_C4 = deck['Thickness'] * deck['Area'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['C4']
@@ -102,27 +102,27 @@ if 'Deck' in structuralElements:
                 DeckGWP_C3 = "Manual input needed"  
                 DeckGWP_C4 = "Manual input needed" 
                 DeckGWP_D = "Manual input needed" 
-        elif deck['Material'] == "Timber" or "Wood":
-            if 'C' in deck['Quality']:
+        elif deck['Material'] == "Timber" or deck['Material'] == "Wood":
+            if 'C' in deck['Quality'] or 'D' in deck['Quality'] or 'Timber' in deck['Quality'] or 'Lumber' in deck['Quality']:
                 DeckGWPA1A3 = (deck['Area'] * deck['Thickness']) * LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran']['A1tilA3']
                 DeckGWP_C3 = (deck['Area'] * deck['Thickness']) * LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran, Forbrænding']['C3']
                 DeckGWP_C4 = (deck['Area'] * deck['Thickness']) * LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran, Forbrænding']['C4']
                 DeckGWP_D = (deck['Area'] * deck['Thickness']) * LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran, Forbrænding']['D']
-            elif 'GL' or 'Glulam' in deck['Quality']:
+            elif 'GL' in deck['Quality'] or 'Glulam' in deck['Quality']:
                 DeckGWPA1A3 = (deck['Area'] * deck['Thickness']) * LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran']['A1tilA3'] 
                 DeckGWP_C3 = (deck['Area'] * deck['Thickness']) * LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran, Forbrænding']['C3'] 
                 DeckGWP_C4 = (deck['Area'] * deck['Thickness']) * LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran, Forbrænding']['C4']
                 DeckGWP_D = (deck['Area'] * deck['Thickness']) * LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran, Forbrænding']['D']
-            elif 'L(T)' in deck ['Quality']:
-                DeckGWPA1A3 = (deck['Area'] * deck['Thickness'])* LCA_Data.loc[LCA_Data['Navn'] == 'Krydslamineret træ']['A1tilA3']
-                DeckGWP_C3 = (deck['Area'] * deck['Thickness']) * LCA_Data.loc[LCA_Data['Navn'] == 'Krydslamineret træ, Forbrænding']['C3'] 
-                DeckGWP_C4 = (deck['Area'] * deck['Thickness']) * LCA_Data.loc[LCA_Data['Navn'] == 'Krydslamineret træ, Forbrænding']['C4']
-                DeckGWP_D = (deck['Area'] * deck['Thickness']) * LCA_Data.loc[LCA_Data['Navn'] == 'Krydslamineret træ, Forbrænding']['D']
             else: 
                 DeckGWPA1A3 = "Manual input needed"
                 DeckGWP_C3 = "Manual input needed"
                 DeckGWP_C4 = "Manual input needed"
                 DeckGWP_D = "Manual input needed"
+        elif deck['Material'] == "CLT":
+            DeckGWPA1A3 = (deck['Area'] * deck['Thickness'])* LCA_Data.loc[LCA_Data['Navn'] == 'Krydslamineret træ']['A1tilA3']
+            DeckGWP_C3 = (deck['Area'] * deck['Thickness']) * LCA_Data.loc[LCA_Data['Navn'] == 'Krydslamineret træ, Forbrænding']['C3'] 
+            DeckGWP_C4 = (deck['Area'] * deck['Thickness']) * LCA_Data.loc[LCA_Data['Navn'] == 'Krydslamineret træ, Forbrænding']['C4']
+            DeckGWP_D = (deck['Area'] * deck['Thickness']) * LCA_Data.loc[LCA_Data['Navn'] == 'Krydslamineret træ, Forbrænding']['D']
         elif deck['Material'] == "Reinforcement":
             DeckGWPA1A3 = deck['Weight'] * LCA_Data.loc[LCA_Data['Navn'] == "Armeringsnet"]['A1tilA3']
             DeckGWP_C3 = deck['Weight'] * LCA_Data.loc[LCA_Data['Navn'] == "Armeringsnet"]['C3']

@@ -30,7 +30,7 @@ if 'Beam' in structuralElements:
                 BeamGWP_C3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['C3']
                 BeamGWP_C4 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['C4']
                 BeamGWP_D = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['D']
-            elif beam['Quality'] == "30/37" or beam['Quality'] == "Concrete, C30/37":
+            elif beam['Quality'] == "C30/37" or beam['Quality'] == "Concrete, C30/37":
                 BeamGWPA1A3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['A1tilA3']
                 BeamGWP_C3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['C3']
                 BeamGWP_C4 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['C4']
@@ -60,18 +60,18 @@ if 'Beam' in structuralElements:
             BeamGWP_C3 = beam['Weight'] * (LCA_Data.loc[LCA_Data['Navn'] == 'Stål, valsede profiler og plader']['C3'] / 1000)
             BeamGWP_C4 = beam['Weight'] * (LCA_Data.loc[LCA_Data['Navn'] == 'Stål, valsede profiler og plader']['C4'] / 1000)
             BeamGWP_D = beam['Weight'] * (LCA_Data.loc[LCA_Data['Navn'] == 'Stål, valsede profiler og plader']['D'] / 1000)
-        elif beam['Material'] == "Timber" or "Wood":
-            if 'C' or 'Timber' in beam['Quality']:
+        elif beam['Material'] == "Timber" or beam['Material'] == "Wood":
+            if 'C' in beam['Quality'] or "D" in beam['Quality'] or 'Timber' in beam['Quality'] or 'Lumber' in beam['Quality']:
                 BeamGWPA1A3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran']['A1tilA3']
                 BeamGWP_C3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran, Forbrænding']['C3']
                 BeamGWP_C4 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran, Forbrænding']['C4']
                 BeamGWP_D = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran, Forbrænding']['D']
-            elif 'GL' or 'Glulam' in beam['Quality']:
+            elif 'GL' in beam['Quality'] or 'Glulam' in beam['Quality']:
                 BeamGWPA1A3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran']['A1tilA3']
                 BeamGWP_C3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran, Forbrænding']['C3']
                 BeamGWP_C4 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran, Forbrænding']['C4']
                 BeamGWP_D = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran, Forbrænding']['D']
-            elif 'L(T)' in beam ['Quality']:
+            elif 'L(T)' in beam['Quality'] in beam ['Quality']:
                 BeamGWPA1A3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Krydslamineret træ']['A1tilA3']
                 BeamGWP_C3 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Krydslamineret træ, Forbrænding']['C3']
                 BeamGWP_C4 = beam['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Krydslamineret træ, Forbrænding']['C4']
@@ -86,9 +86,13 @@ if 'Beam' in structuralElements:
             BeamGWP_C3 = beam['Weight'] * LCA_Data.loc[LCA_Data['Navn'] == "Armeringsnet"]['C3']
             BeamGWP_C4 = beam['Weight'] * LCA_Data.loc[LCA_Data['Navn'] == "Armeringsnet"]['C4']
             BeamGWP_D = beam['Weight'] * LCA_Data.loc[LCA_Data['Navn'] == "Armeringsnet"]['D']
+        elif beam['Material'] == "Other" and beam['Quality'] == "Aluminum":
+            BeamGWPA1A3 = beam['Weight'] * LCA_Data.loc[LCA_Data['Navn'] == "Aluminiumsprofil"]['A1tilA3']
+            BeamGWP_C3 = beam['Weight'] * LCA_Data.loc[LCA_Data['Navn'] == "Aluminium, plade og profil, Genanvendelse"]['C3']
+            BeamGWP_C4 = beam['Weight'] * LCA_Data.loc[LCA_Data['Navn'] == "Aluminium, plade og profil, Genanvendelse"]['C4']
+            BeamGWP_D = beam['Weight'] * LCA_Data.loc[LCA_Data['Navn'] == "Aluminium, plade og profil, Genanvendelse"]['D']   
         else: 
             print(False)
-        
 
         beamsGWP = {"TypeID":beam['TypeID'], "Material": beam['Material'], "Quality": beam['Quality'], "Volume": beam['Volume'], "GWP_A1-A3": np.nansum(BeamGWPA1A3), "GWP_C3": np.nansum(BeamGWP_C3), "GWP_C4": np.nansum(BeamGWP_C4), "GWP_D": np.nansum(BeamGWP_D)}
         print(beamsGWP)

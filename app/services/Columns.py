@@ -28,7 +28,7 @@ if 'Column' in structuralElements:
                 ColumnGWP_C3 = column['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['C3']
                 ColumnGWP_C4 = column['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['C4']
                 ColumnGWP_D = column['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C20/25 SCC og C25/30) i eksponeringsklasserne X0 og XC1, Fabriksbeton C25/30 (indervæg)']['D']
-            elif column['Quality'] == "30/37" or column['Quality'] == "Concrete, C30/37":
+            elif column['Quality'] == "C30/37" or column['Quality'] == "Concrete, C30/37":
                 ColumnGWPA1A3 = column['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['A1tilA3']
                 ColumnGWP_C3 = column['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['C3']
                 ColumnGWP_C4 = column['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Fabriksbeton (C30/37, C35/45 SCC), C30/37(Indvendig væg)']['C4']
@@ -58,13 +58,13 @@ if 'Column' in structuralElements:
             ColumnGWP_C3 = column['Weight'] * (LCA_Data.loc[LCA_Data['Navn'] == 'Stål, valsede profiler og plader']['C3'] / 1000)
             ColumnGWP_C4 = column['Weight'] * (LCA_Data.loc[LCA_Data['Navn'] == 'Stål, valsede profiler og plader']['C4'] / 1000)
             ColumnGWP_D = column['Weight'] * (LCA_Data.loc[LCA_Data['Navn'] == 'Stål, valsede profiler og plader']['D'] / 1000)
-        elif column['Material'] == "Timber" or "Wood":
-            if 'C' or 'Timber' in column['Quality']:
+        elif column['Material'] == "Timber" or column['Material'] =="Wood":
+            if 'C' in column['Quality'] or 'D' in column['Quality'] or 'Timber' in column['Quality'] or 'Lumber' in column['Quality']:
                 ColumnGWPA1A3 = column['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran']['A1tilA3']
                 ColumnGWP_C3 = column['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran, Forbrænding']['C3']
                 ColumnGWP_C4 = column['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran, Forbrænding']['C4']
                 ColumnGWP_D = column['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Høvlede konstruktionstræsprodukter af fyrog gran, Forbrænding']['D'] 
-            elif 'GL' or 'Glulam' in column['Quality']:
+            elif 'GL'in column['Quality'] or 'Glulam' in column['Quality']:
                 ColumnGWPA1A3 = column['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran']['A1tilA3']
                 ColumnGWP_C3 = column['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran, Forbrænding']['C3'] 
                 ColumnGWP_C4 = column['Volume'] * LCA_Data.loc[LCA_Data['Navn'] == 'Limtræs-produkter af fyr og gran, Forbrænding']['C4']
@@ -84,6 +84,11 @@ if 'Column' in structuralElements:
             ColumnGWP_C3 = column['Weight'] * LCA_Data.loc[LCA_Data['Navn'] == "Armeringsnet"]['C3']
             ColumnGWP_C4 = column['Weight'] * LCA_Data.loc[LCA_Data['Navn'] == "Armeringsnet"]['C4']
             ColumnGWP_D = column['Weight'] * LCA_Data.loc[LCA_Data['Navn'] == "Armeringsnet"]['D']
+        elif column['Material'] =="Other" and column['Quality'] == "Aluminum":
+            ColumnGWPA1A3 = column['Weight'] * LCA_Data.loc[LCA_Data['Navn'] == "Aluminiumsprofil"]['A1tilA3']
+            ColumnGWP_C3 = column['Weight'] * LCA_Data.loc[LCA_Data['Navn'] == "Aluminium, plade og profil, Genanvendelse"]['C3']
+            ColumnGWP_C4 = column['Weight'] * LCA_Data.loc[LCA_Data['Navn'] == "Aluminium, plade og profil, Genanvendelse"]['C4']
+            ColumnGWP_D = column['Weight'] * LCA_Data.loc[LCA_Data['Navn'] == "Aluminium, plade og profil, Genanvendelse"]['D'] 
         else: 
             print(False)
         

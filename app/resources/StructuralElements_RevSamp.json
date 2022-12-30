@@ -1,0 +1,5868 @@
+{
+   "Beam":[
+      {
+         "TypeID":1046268,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.012900000000000002,
+         "Weight":101.26500000000001
+      },
+      {
+         "TypeID":1046278,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1046281,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1046284,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1046287,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1046290,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1046298,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046300,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046302,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046304,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046306,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00161,
+         "Weight":4.347
+      },
+      {
+         "TypeID":1046308,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046310,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046312,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046314,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046316,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046318,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00161,
+         "Weight":4.347
+      },
+      {
+         "TypeID":1046320,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046322,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046324,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046326,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046328,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046330,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00161,
+         "Weight":4.347
+      },
+      {
+         "TypeID":1046332,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046334,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046336,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046338,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046340,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046342,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00161,
+         "Weight":4.347
+      },
+      {
+         "TypeID":1046344,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046346,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.0010199999999999999,
+         "Weight":2.7539999999999996
+      },
+      {
+         "TypeID":1046348,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046350,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046352,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.0010199999999999999,
+         "Weight":2.7539999999999996
+      },
+      {
+         "TypeID":1046354,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00161,
+         "Weight":4.347
+      },
+      {
+         "TypeID":1046356,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046358,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046360,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046362,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046364,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046366,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00161,
+         "Weight":4.347
+      },
+      {
+         "TypeID":1046368,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046370,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046372,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046374,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046376,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046378,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00161,
+         "Weight":4.347
+      },
+      {
+         "TypeID":1046380,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046382,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00101,
+         "Weight":2.7270000000000003
+      },
+      {
+         "TypeID":1046384,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046386,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046388,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00101,
+         "Weight":2.7270000000000003
+      },
+      {
+         "TypeID":1046390,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00161,
+         "Weight":4.347
+      },
+      {
+         "TypeID":1046392,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1046394,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1046396,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1046398,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1046400,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1046402,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1046404,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046406,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046408,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046410,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046412,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046414,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00161,
+         "Weight":4.347
+      },
+      {
+         "TypeID":1046416,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046418,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046420,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046422,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046424,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046426,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00161,
+         "Weight":4.347
+      },
+      {
+         "TypeID":1046428,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046430,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046432,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046434,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046436,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046438,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00161,
+         "Weight":4.347
+      },
+      {
+         "TypeID":1046440,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046442,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00101,
+         "Weight":2.7270000000000003
+      },
+      {
+         "TypeID":1046444,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046446,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046448,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00101,
+         "Weight":2.7270000000000003
+      },
+      {
+         "TypeID":1046450,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00161,
+         "Weight":4.347
+      },
+      {
+         "TypeID":1046452,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046454,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046456,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046458,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046460,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046462,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00161,
+         "Weight":4.347
+      },
+      {
+         "TypeID":1046464,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046466,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046468,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046470,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046472,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046474,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00161,
+         "Weight":4.347
+      },
+      {
+         "TypeID":1046476,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046478,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046480,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046482,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046484,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046486,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00161,
+         "Weight":4.347
+      },
+      {
+         "TypeID":1046488,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046490,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.0010199999999999999,
+         "Weight":2.7539999999999996
+      },
+      {
+         "TypeID":1046492,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046494,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1046496,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.0010199999999999999,
+         "Weight":2.7539999999999996
+      },
+      {
+         "TypeID":1046498,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00161,
+         "Weight":4.347
+      },
+      {
+         "TypeID":1046503,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1046512,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1046542,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.00223,
+         "Weight":17.5055
+      },
+      {
+         "TypeID":1046544,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0022800000000000003,
+         "Weight":17.898000000000003
+      },
+      {
+         "TypeID":1046546,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.00246,
+         "Weight":19.311
+      },
+      {
+         "TypeID":1046548,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.00248,
+         "Weight":19.468
+      },
+      {
+         "TypeID":1046550,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0022800000000000003,
+         "Weight":17.898000000000003
+      },
+      {
+         "TypeID":1046552,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.00223,
+         "Weight":17.5055
+      },
+      {
+         "TypeID":1046554,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.00248,
+         "Weight":19.468
+      },
+      {
+         "TypeID":1046556,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.00246,
+         "Weight":19.311
+      },
+      {
+         "TypeID":1046558,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.00223,
+         "Weight":17.5055
+      },
+      {
+         "TypeID":1046560,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0022800000000000003,
+         "Weight":17.898000000000003
+      },
+      {
+         "TypeID":1046562,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.00246,
+         "Weight":19.311
+      },
+      {
+         "TypeID":1046564,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.00248,
+         "Weight":19.468
+      },
+      {
+         "TypeID":1046566,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0022800000000000003,
+         "Weight":17.898000000000003
+      },
+      {
+         "TypeID":1046568,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.00223,
+         "Weight":17.5055
+      },
+      {
+         "TypeID":1046570,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.00248,
+         "Weight":19.468
+      },
+      {
+         "TypeID":1046572,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.00246,
+         "Weight":19.311
+      },
+      {
+         "TypeID":1096387,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.012900000000000002,
+         "Weight":101.26500000000001
+      },
+      {
+         "TypeID":1096415,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.012900000000000002,
+         "Weight":101.26500000000001
+      },
+      {
+         "TypeID":1096421,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.012900000000000002,
+         "Weight":101.26500000000001
+      },
+      {
+         "TypeID":1098644,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.012900000000000002,
+         "Weight":101.26500000000001
+      },
+      {
+         "TypeID":1114997,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.012900000000000002,
+         "Weight":101.26500000000001
+      },
+      {
+         "TypeID":1116436,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0424,
+         "Weight":332.84
+      },
+      {
+         "TypeID":1116461,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0181,
+         "Weight":142.085
+      },
+      {
+         "TypeID":1116483,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0424,
+         "Weight":332.84
+      },
+      {
+         "TypeID":1116502,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0176,
+         "Weight":138.16
+      },
+      {
+         "TypeID":1116979,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.00899,
+         "Weight":70.5715
+      },
+      {
+         "TypeID":1117017,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.00899,
+         "Weight":70.5715
+      },
+      {
+         "TypeID":1117037,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.00899,
+         "Weight":70.5715
+      },
+      {
+         "TypeID":1117066,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.00899,
+         "Weight":70.5715
+      },
+      {
+         "TypeID":1117306,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0181,
+         "Weight":142.085
+      },
+      {
+         "TypeID":1174038,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.018600000000000002,
+         "Weight":146.01000000000002
+      },
+      {
+         "TypeID":1175513,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0181,
+         "Weight":142.085
+      },
+      {
+         "TypeID":1175555,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.00907,
+         "Weight":71.1995
+      },
+      {
+         "TypeID":1175807,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175809,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175811,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175813,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175815,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175817,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175819,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175821,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175823,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175871,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175873,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175875,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175877,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175879,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175881,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175883,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175885,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175887,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175914,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175916,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175918,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175920,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175922,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175953,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175955,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175957,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175959,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175961,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1175999,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0179,
+         "Weight":140.515
+      },
+      {
+         "TypeID":1176035,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0176,
+         "Weight":138.16
+      },
+      {
+         "TypeID":1176046,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0176,
+         "Weight":138.16
+      },
+      {
+         "TypeID":1176054,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0178,
+         "Weight":139.73
+      },
+      {
+         "TypeID":1176088,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176090,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176092,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176094,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176096,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176129,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176131,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176133,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176135,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176137,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176222,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176224,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176226,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176228,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176230,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176232,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176234,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176236,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176238,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176627,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176629,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176631,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176633,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176635,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176637,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176639,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176641,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176643,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176698,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176700,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176702,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176704,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176706,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176708,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176710,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176712,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176714,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176734,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176736,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176738,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176740,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176742,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176744,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176746,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176748,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1176750,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196738,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196740,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196742,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196744,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196813,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196815,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196817,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196819,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196821,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196823,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0121,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196825,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196827,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0121,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196829,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196831,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0121,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196833,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196835,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0121,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196837,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196839,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196841,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196843,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196845,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196847,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196849,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196851,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196853,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196855,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196857,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196859,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0287,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196861,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196863,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196865,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1196867,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.013700000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315692,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315694,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315696,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315698,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315700,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315702,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315704,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315706,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315708,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315710,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315712,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315714,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315716,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315718,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315720,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315722,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315724,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315726,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315728,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315730,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315732,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315734,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315736,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315738,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315740,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315742,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1315744,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0434,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1407777,
+         "Material":"Other",
+         "Quality":"Aluminum",
+         "Volume":0.00104,
+         "Weight":2.808
+      },
+      {
+         "TypeID":1417275,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0187,
+         "Weight":146.79500000000002
+      },
+      {
+         "TypeID":1417277,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0187,
+         "Weight":146.79500000000002
+      },
+      {
+         "TypeID":1417279,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0187,
+         "Weight":146.79500000000002
+      },
+      {
+         "TypeID":1417281,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0187,
+         "Weight":146.79500000000002
+      },
+      {
+         "TypeID":1417290,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417292,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417294,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417296,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417298,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417300,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417302,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417304,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417306,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417308,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417310,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417312,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417314,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417323,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417325,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417327,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417329,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417331,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417333,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417335,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417337,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417339,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417341,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417343,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417345,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417347,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417356,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417358,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417360,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417362,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417364,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417366,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417368,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417370,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417372,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417374,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417376,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417378,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417380,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417389,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417391,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417393,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417395,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417397,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417399,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417401,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417403,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417405,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417407,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417409,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417411,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417413,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021500000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417422,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417424,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417426,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417428,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417430,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417432,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.0218,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417434,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.022000000000000002,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417436,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417438,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417440,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417442,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417444,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417446,
+         "Material":"Wood",
+         "Quality":"Softwood, Lumber",
+         "Volume":0.021,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417462,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0171,
+         "Weight":134.235
+      },
+      {
+         "TypeID":1417464,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.042800000000000005,
+         "Weight":335.98
+      },
+      {
+         "TypeID":1417466,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.042800000000000005,
+         "Weight":335.98
+      },
+      {
+         "TypeID":1417469,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0171,
+         "Weight":134.235
+      },
+      {
+         "TypeID":1417471,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.042800000000000005,
+         "Weight":335.98
+      },
+      {
+         "TypeID":1417473,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.042800000000000005,
+         "Weight":335.98
+      },
+      {
+         "TypeID":1417487,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.00812,
+         "Weight":63.742000000000004
+      },
+      {
+         "TypeID":1436416,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.012900000000000002,
+         "Weight":101.26500000000001
+      },
+      {
+         "TypeID":1436420,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.012900000000000002,
+         "Weight":101.26500000000001
+      },
+      {
+         "TypeID":1436523,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.012900000000000002,
+         "Weight":101.26500000000001
+      },
+      {
+         "TypeID":1436528,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.012900000000000002,
+         "Weight":101.26500000000001
+      },
+      {
+         "TypeID":1436690,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.012900000000000002,
+         "Weight":101.26500000000001
+      },
+      {
+         "TypeID":1436728,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.012900000000000002,
+         "Weight":101.26500000000001
+      },
+      {
+         "TypeID":1436861,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.012900000000000002,
+         "Weight":101.26500000000001
+      },
+      {
+         "TypeID":1436903,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.012900000000000002,
+         "Weight":101.26500000000001
+      },
+      {
+         "TypeID":1437055,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1437083,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1437167,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1437215,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1437249,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.0037400000000000003,
+         "Weight":29.359
+      },
+      {
+         "TypeID":1438725,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 250 MPa",
+         "Volume":0.0181,
+         "Weight":142.085
+      }
+   ],
+   "Column":[
+      {
+         "TypeID":1046264,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0098,
+         "Weight":76.929999999999993
+      },
+      {
+         "TypeID":1096385,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0098,
+         "Weight":76.929999999999993
+      },
+      {
+         "TypeID":1096413,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0098,
+         "Weight":76.929999999999993
+      },
+      {
+         "TypeID":1096419,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0098,
+         "Weight":76.929999999999993
+      },
+      {
+         "TypeID":1098642,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.011300000000000001,
+         "Weight":88.705000000000013
+      },
+      {
+         "TypeID":1114995,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0228,
+         "Weight":178.98000000000002
+      },
+      {
+         "TypeID":1173925,
+         "Material":"Concrete",
+         "Quality":"Concrete, C25/30",
+         "Volume":0.608,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1417448,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.00493,
+         "Weight":38.700500000000005
+      },
+      {
+         "TypeID":1417450,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.00493,
+         "Weight":38.700500000000005
+      },
+      {
+         "TypeID":1417452,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.00493,
+         "Weight":38.700500000000005
+      },
+      {
+         "TypeID":1417454,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.00493,
+         "Weight":38.700500000000005
+      },
+      {
+         "TypeID":1417456,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.00493,
+         "Weight":38.700500000000005
+      },
+      {
+         "TypeID":1417459,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.00493,
+         "Weight":38.700500000000005
+      },
+      {
+         "TypeID":1417475,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.00493,
+         "Weight":38.700500000000005
+      },
+      {
+         "TypeID":1417477,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.00493,
+         "Weight":38.700500000000005
+      },
+      {
+         "TypeID":1417479,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.00493,
+         "Weight":38.700500000000005
+      },
+      {
+         "TypeID":1417481,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.00493,
+         "Weight":38.700500000000005
+      },
+      {
+         "TypeID":1417485,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.00493,
+         "Weight":38.700500000000005
+      },
+      {
+         "TypeID":1432709,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.011500000000000002,
+         "Weight":90.275
+      },
+      {
+         "TypeID":1436414,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0098,
+         "Weight":76.929999999999993
+      },
+      {
+         "TypeID":1436418,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0098,
+         "Weight":76.929999999999993
+      },
+      {
+         "TypeID":1436521,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0098,
+         "Weight":76.929999999999993
+      },
+      {
+         "TypeID":1436526,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0098,
+         "Weight":76.929999999999993
+      },
+      {
+         "TypeID":1436688,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0228,
+         "Weight":178.98000000000002
+      },
+      {
+         "TypeID":1436726,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.0228,
+         "Weight":178.98000000000002
+      },
+      {
+         "TypeID":1436859,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.011300000000000001,
+         "Weight":88.705000000000013
+      },
+      {
+         "TypeID":1436866,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.011500000000000002,
+         "Weight":90.275
+      },
+      {
+         "TypeID":1436901,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.011300000000000001,
+         "Weight":88.705000000000013
+      },
+      {
+         "TypeID":1436907,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.011500000000000002,
+         "Weight":90.275
+      },
+      {
+         "TypeID":1467946,
+         "Material":"Steel",
+         "Quality":"Steel, 45-345",
+         "Volume":0.00493,
+         "Weight":38.700500000000005
+      }
+   ],
+   "Deck":[
+      {
+         "TypeID":495352,
+         "Material":"Concrete, C30/37",
+         "Quality":"Concrete, C30/37",
+         "Area":38.458999999999996,
+         "Thickness":0.2,
+         "Weight":0.0
+      },
+      {
+         "TypeID":647908,
+         "Material":"Concrete, C30/37",
+         "Quality":"Concrete, C30/37",
+         "Area":70.072,
+         "Thickness":0.2,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1206619,
+         "Material":"Concrete, C30/37",
+         "Quality":"Concrete, C30/37",
+         "Area":105.31,
+         "Thickness":0.2,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1381435,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":19.939
+      },
+      {
+         "TypeID":1381436,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":120.105
+      },
+      {
+         "TypeID":1381437,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":120.105
+      },
+      {
+         "TypeID":1381438,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":23.6285
+      },
+      {
+         "TypeID":1381439,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":19.939
+      },
+      {
+         "TypeID":1381440,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":120.105
+      },
+      {
+         "TypeID":1381441,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":120.105
+      },
+      {
+         "TypeID":1381442,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":23.6285
+      },
+      {
+         "TypeID":1381497,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":54.007999999999996
+      },
+      {
+         "TypeID":1381498,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":52.673500000000004
+      },
+      {
+         "TypeID":1381499,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":54.007999999999996
+      },
+      {
+         "TypeID":1381500,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":52.673500000000004
+      },
+      {
+         "TypeID":1381565,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.13423500000000002
+      },
+      {
+         "TypeID":1381566,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.22136999999999998
+      },
+      {
+         "TypeID":1381567,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.311645
+      },
+      {
+         "TypeID":1381568,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.39878
+      },
+      {
+         "TypeID":1381569,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.48513
+      },
+      {
+         "TypeID":1381570,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.57619000000000009
+      },
+      {
+         "TypeID":1381571,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.663325
+      },
+      {
+         "TypeID":1381572,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.7536
+      },
+      {
+         "TypeID":1381573,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.83995
+      },
+      {
+         "TypeID":1381574,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.93414999999999992
+      },
+      {
+         "TypeID":1381575,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":1.0205000000000002
+      },
+      {
+         "TypeID":1381576,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":1.10685
+      },
+      {
+         "TypeID":1381577,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":84.78
+      },
+      {
+         "TypeID":1381578,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":8.2425
+      },
+      {
+         "TypeID":1381579,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":8.321
+      },
+      {
+         "TypeID":1381580,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":8.478
+      },
+      {
+         "TypeID":1381581,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":8.635
+      },
+      {
+         "TypeID":1381582,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":8.7920000000000016
+      },
+      {
+         "TypeID":1381583,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":8.9490000000000016
+      },
+      {
+         "TypeID":1381584,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.106
+      },
+      {
+         "TypeID":1381585,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.1845
+      },
+      {
+         "TypeID":1381586,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.3414999999999981
+      },
+      {
+         "TypeID":1381587,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.4985
+      },
+      {
+         "TypeID":1381588,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":19.232499999999998
+      },
+      {
+         "TypeID":1381589,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.13423500000000002
+      },
+      {
+         "TypeID":1381590,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.22136999999999998
+      },
+      {
+         "TypeID":1381591,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.311645
+      },
+      {
+         "TypeID":1381592,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.39878
+      },
+      {
+         "TypeID":1381593,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.48513
+      },
+      {
+         "TypeID":1381594,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.57619000000000009
+      },
+      {
+         "TypeID":1381595,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.663325
+      },
+      {
+         "TypeID":1381596,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.7536
+      },
+      {
+         "TypeID":1381597,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.83995
+      },
+      {
+         "TypeID":1381598,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":0.93414999999999992
+      },
+      {
+         "TypeID":1381599,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":1.0205000000000002
+      },
+      {
+         "TypeID":1381600,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":1.10685
+      },
+      {
+         "TypeID":1381601,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":84.78
+      },
+      {
+         "TypeID":1381602,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":8.2425
+      },
+      {
+         "TypeID":1381603,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":8.321
+      },
+      {
+         "TypeID":1381604,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":8.478
+      },
+      {
+         "TypeID":1381605,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":8.635
+      },
+      {
+         "TypeID":1381606,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":8.7920000000000016
+      },
+      {
+         "TypeID":1381607,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":8.9490000000000016
+      },
+      {
+         "TypeID":1381608,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.106
+      },
+      {
+         "TypeID":1381609,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.1845
+      },
+      {
+         "TypeID":1381610,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.3414999999999981
+      },
+      {
+         "TypeID":1381611,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.4985
+      },
+      {
+         "TypeID":1381612,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":19.232499999999998
+      }
+   ],
+   "ExteriorWall":[
+      {
+         "TypeID":627064,
+         "Material":"Concrete, C25/30",
+         "Quality":"Concrete, C25/30",
+         "Area":29.299999999999997,
+         "Thickness":0.28,
+         "Weight":0.0
+      },
+      {
+         "TypeID":627729,
+         "Material":"Concrete, C25/30",
+         "Quality":"Concrete, C25/30",
+         "Area":8.06,
+         "Thickness":0.28,
+         "Weight":0.0
+      },
+      {
+         "TypeID":628523,
+         "Material":"Concrete, C25/30",
+         "Quality":"Concrete, C25/30",
+         "Area":26.400000000000002,
+         "Thickness":0.28,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1115218,
+         "Material":"Concrete, C25/30",
+         "Quality":"Concrete, C25/30",
+         "Area":1.08,
+         "Thickness":0.28,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1115258,
+         "Material":"Concrete, C25/30",
+         "Quality":"Concrete, C25/30",
+         "Area":3.25,
+         "Thickness":0.28,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1141594,
+         "Material":"Concrete, C25/30",
+         "Quality":"Concrete, C25/30",
+         "Area":100.0,
+         "Thickness":0.28,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1141833,
+         "Material":"Concrete, C25/30",
+         "Quality":"Concrete, C25/30",
+         "Area":74.5,
+         "Thickness":0.28,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1316567,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":7.8500000000000005
+      },
+      {
+         "TypeID":1316568,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.1845
+      },
+      {
+         "TypeID":1316569,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":7.8500000000000005
+      },
+      {
+         "TypeID":1316570,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.1845
+      },
+      {
+         "TypeID":1316696,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1316697,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1316698,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1316699,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1316774,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1316775,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1316776,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1316777,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1316890,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1316891,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1316892,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1316893,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1316960,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1316961,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1316962,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1316963,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1317123,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1317124,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1317125,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1317126,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348258,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":5.6991
+      },
+      {
+         "TypeID":1348259,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":7.33975
+      },
+      {
+         "TypeID":1348260,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":5.6991
+      },
+      {
+         "TypeID":1348261,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":7.33975
+      },
+      {
+         "TypeID":1348353,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348354,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348355,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348356,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348407,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348408,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348409,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348410,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348428,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348429,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348430,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348431,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348449,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348450,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348451,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348452,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348469,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348470,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348471,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348472,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348490,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348491,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348492,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348493,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348511,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348512,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348513,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348514,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348533,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348534,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348535,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348536,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348554,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348555,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348556,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348557,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348577,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348578,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348579,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348580,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348598,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348599,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348600,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348601,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348632,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348633,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348634,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348635,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348653,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348654,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348655,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348656,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348674,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348675,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348676,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348677,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348695,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348696,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1348697,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1348698,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350485,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":3.82295
+      },
+      {
+         "TypeID":1350486,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":5.5028500000000005
+      },
+      {
+         "TypeID":1350487,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":3.82295
+      },
+      {
+         "TypeID":1350488,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":5.5028500000000005
+      },
+      {
+         "TypeID":1350529,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":5.03185
+      },
+      {
+         "TypeID":1350530,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":7.33975
+      },
+      {
+         "TypeID":1350531,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":5.03185
+      },
+      {
+         "TypeID":1350532,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":7.33975
+      },
+      {
+         "TypeID":1350616,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350617,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350618,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350619,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350655,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350656,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350657,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350658,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350674,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350675,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350676,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350677,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350696,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350697,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350698,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350699,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350717,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350718,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350719,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350720,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350738,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350739,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350740,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350741,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350759,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350760,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350761,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350762,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350780,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350781,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350782,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350783,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350807,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350808,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350809,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350810,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350828,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350829,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350830,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350831,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350851,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350852,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1350853,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1350854,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1351013,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.734
+      },
+      {
+         "TypeID":1351014,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1351015,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.734
+      },
+      {
+         "TypeID":1351016,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1351233,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1351234,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1351235,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1351236,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1351252,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1351253,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1351254,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1351255,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1351273,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1351274,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1351275,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1351276,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1351295,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1351296,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1351297,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1351298,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1351316,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1351317,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1351318,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":9.6555
+      },
+      {
+         "TypeID":1351319,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":10.990000000000002
+      },
+      {
+         "TypeID":1376773,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":76.929999999999993
+      },
+      {
+         "TypeID":1376774,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":76.929999999999993
+      },
+      {
+         "TypeID":1376775,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":73.947
+      },
+      {
+         "TypeID":1376776,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":73.947
+      },
+      {
+         "TypeID":1376787,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":21.038
+      },
+      {
+         "TypeID":1376788,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":21.038
+      },
+      {
+         "TypeID":1376789,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":20.410000000000004
+      },
+      {
+         "TypeID":1376790,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":20.410000000000004
+      },
+      {
+         "TypeID":1437730,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":69.237
+      },
+      {
+         "TypeID":1437731,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":69.237
+      },
+      {
+         "TypeID":1437732,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":66.725000000000009
+      },
+      {
+         "TypeID":1437733,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Area":0.0,
+         "Thickness":0.0,
+         "Weight":66.725000000000009
+      }
+   ],
+   "InteriorWall":[
+      
+   ],
+   "Foundation":[
+      {
+         "TypeID":512319,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.108,
+         "Weight":0.0
+      },
+      {
+         "TypeID":512321,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":512394,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.108,
+         "Weight":0.0
+      },
+      {
+         "TypeID":512396,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":512445,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.108,
+         "Weight":0.0
+      },
+      {
+         "TypeID":512447,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":512449,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.108,
+         "Weight":0.0
+      },
+      {
+         "TypeID":512451,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":512469,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.108,
+         "Weight":0.0
+      },
+      {
+         "TypeID":512471,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":512473,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.108,
+         "Weight":0.0
+      },
+      {
+         "TypeID":512475,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":512522,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.108,
+         "Weight":0.0
+      },
+      {
+         "TypeID":512524,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":512526,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.108,
+         "Weight":0.0
+      },
+      {
+         "TypeID":512528,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":1175183,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":14.44,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1178019,
+         "Material":"Concrete, C35/45",
+         "Quality":"Concrete, C35/45",
+         "Volume":2.684,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1178029,
+         "Material":"Concrete, C35/45",
+         "Quality":"Concrete, C35/45",
+         "Volume":5.556,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1178049,
+         "Material":"Concrete, C35/45",
+         "Quality":"Concrete, C35/45",
+         "Volume":2.052,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1178059,
+         "Material":"Concrete, C35/45",
+         "Quality":"Concrete, C35/45",
+         "Volume":4.273,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1381249,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.144,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1381270,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.144,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1381287,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.144,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1433369,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.144,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1436868,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.144,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1436909,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.144,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1494718,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.05401,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1494780,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.05401,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1494823,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.05401,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1494880,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.05401,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1494929,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.05401,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1494956,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.05401,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1494991,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.05401,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1495050,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.05401,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1495091,
+         "Material":"Concrete",
+         "Quality":"Concrete, C40/50",
+         "Volume":0.05401,
+         "Weight":0.0
+      },
+      {
+         "TypeID":1496013,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":1496015,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":1496017,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":1496031,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":1496033,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":1496035,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":1496037,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":1496039,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":1496041,
+         "Material":"Steel",
+         "Quality":"Metal - Steel - 345 MPa",
+         "Volume":0.4243,
+         "Weight":3330.755
+      },
+      {
+         "TypeID":1372293,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.0049700000000000005,
+         "Weight":39.014500000000005
+      },
+      {
+         "TypeID":1372483,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00085,
+         "Weight":6.6724999999999994
+      },
+      {
+         "TypeID":1372484,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00079400000000000011,
+         "Weight":6.2329000000000008
+      },
+      {
+         "TypeID":1372485,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000799,
+         "Weight":6.27215
+      },
+      {
+         "TypeID":1372486,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00078000000000000009,
+         "Weight":6.1230000000000011
+      },
+      {
+         "TypeID":1372487,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00081000000000000006,
+         "Weight":6.3585
+      },
+      {
+         "TypeID":1372488,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00085,
+         "Weight":6.6724999999999994
+      },
+      {
+         "TypeID":1372716,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00231,
+         "Weight":18.1335
+      },
+      {
+         "TypeID":1372717,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000429,
+         "Weight":3.3676500000000003
+      },
+      {
+         "TypeID":1372718,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00041099999999999996,
+         "Weight":3.2263499999999996
+      },
+      {
+         "TypeID":1372719,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000389,
+         "Weight":3.05365
+      },
+      {
+         "TypeID":1372720,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000391,
+         "Weight":3.06935
+      },
+      {
+         "TypeID":1372721,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000412,
+         "Weight":3.2342
+      },
+      {
+         "TypeID":1372722,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000429,
+         "Weight":3.3676500000000003
+      },
+      {
+         "TypeID":1373610,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00601,
+         "Weight":47.1785
+      },
+      {
+         "TypeID":1373611,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00104,
+         "Weight":8.164
+      },
+      {
+         "TypeID":1373612,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00104,
+         "Weight":8.164
+      },
+      {
+         "TypeID":1373613,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00104,
+         "Weight":8.164
+      },
+      {
+         "TypeID":1373614,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00104,
+         "Weight":8.164
+      },
+      {
+         "TypeID":1373615,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00104,
+         "Weight":8.164
+      },
+      {
+         "TypeID":1373616,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00104,
+         "Weight":8.164
+      },
+      {
+         "TypeID":1374057,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00127,
+         "Weight":9.9695
+      },
+      {
+         "TypeID":1375359,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00267,
+         "Weight":20.959500000000002
+      },
+      {
+         "TypeID":1375623,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00301,
+         "Weight":23.6285
+      },
+      {
+         "TypeID":1375818,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00168,
+         "Weight":13.188
+      },
+      {
+         "TypeID":1375820,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000497,
+         "Weight":3.9014500000000005
+      },
+      {
+         "TypeID":1375821,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000497,
+         "Weight":3.9014500000000005
+      },
+      {
+         "TypeID":1375822,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000497,
+         "Weight":3.9014500000000005
+      },
+      {
+         "TypeID":1375823,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000497,
+         "Weight":3.9014500000000005
+      },
+      {
+         "TypeID":1375824,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000497,
+         "Weight":3.9014500000000005
+      },
+      {
+         "TypeID":1375825,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000497,
+         "Weight":3.9014500000000005
+      },
+      {
+         "TypeID":1376668,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.0035199999999999997,
+         "Weight":27.631999999999998
+      },
+      {
+         "TypeID":1376992,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000287,
+         "Weight":2.25295
+      },
+      {
+         "TypeID":1376994,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000287,
+         "Weight":2.25295
+      },
+      {
+         "TypeID":1376996,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000287,
+         "Weight":2.25295
+      },
+      {
+         "TypeID":1376998,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000287,
+         "Weight":2.25295
+      },
+      {
+         "TypeID":1377000,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000287,
+         "Weight":2.25295
+      },
+      {
+         "TypeID":1377002,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000287,
+         "Weight":2.25295
+      },
+      {
+         "TypeID":1377004,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000287,
+         "Weight":2.25295
+      },
+      {
+         "TypeID":1377006,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000287,
+         "Weight":2.25295
+      },
+      {
+         "TypeID":1377007,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00028199999999999997,
+         "Weight":2.2137
+      },
+      {
+         "TypeID":1377008,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00028199999999999997,
+         "Weight":2.2137
+      },
+      {
+         "TypeID":1377009,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00028199999999999997,
+         "Weight":2.2137
+      },
+      {
+         "TypeID":1377010,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00028199999999999997,
+         "Weight":2.2137
+      },
+      {
+         "TypeID":1377011,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00028199999999999997,
+         "Weight":2.2137
+      },
+      {
+         "TypeID":1377012,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00028199999999999997,
+         "Weight":2.2137
+      },
+      {
+         "TypeID":1377013,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00028199999999999997,
+         "Weight":2.2137
+      },
+      {
+         "TypeID":1377014,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00028199999999999997,
+         "Weight":2.2137
+      },
+      {
+         "TypeID":1377015,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00023,
+         "Weight":1.8055
+      },
+      {
+         "TypeID":1377016,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00023,
+         "Weight":1.8055
+      },
+      {
+         "TypeID":1377017,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00023,
+         "Weight":1.8055
+      },
+      {
+         "TypeID":1377018,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00023,
+         "Weight":1.8055
+      },
+      {
+         "TypeID":1377019,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00023,
+         "Weight":1.8055
+      },
+      {
+         "TypeID":1377020,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00023,
+         "Weight":1.8055
+      },
+      {
+         "TypeID":1377021,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00023,
+         "Weight":1.8055
+      },
+      {
+         "TypeID":1377022,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00023,
+         "Weight":1.8055
+      },
+      {
+         "TypeID":1377447,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.0104,
+         "Weight":81.64
+      },
+      {
+         "TypeID":1377448,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.0103,
+         "Weight":80.855
+      },
+      {
+         "TypeID":1377449,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00534,
+         "Weight":41.919000000000004
+      },
+      {
+         "TypeID":1377450,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.0053100000000000005,
+         "Weight":41.6835
+      },
+      {
+         "TypeID":1377451,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00314,
+         "Weight":24.649
+      },
+      {
+         "TypeID":1377452,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00314,
+         "Weight":24.649
+      },
+      {
+         "TypeID":1377641,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000256,
+         "Weight":2.0096
+      },
+      {
+         "TypeID":1377642,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000259,
+         "Weight":2.03315
+      },
+      {
+         "TypeID":1377643,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000263,
+         "Weight":2.06455
+      },
+      {
+         "TypeID":1377644,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00026700000000000004,
+         "Weight":2.09595
+      },
+      {
+         "TypeID":1377645,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00027,
+         "Weight":2.1195
+      },
+      {
+         "TypeID":1377646,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00026700000000000004,
+         "Weight":2.09595
+      },
+      {
+         "TypeID":1377647,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000263,
+         "Weight":2.06455
+      },
+      {
+         "TypeID":1377648,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000259,
+         "Weight":2.03315
+      },
+      {
+         "TypeID":1377649,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000256,
+         "Weight":2.0096
+      },
+      {
+         "TypeID":1377650,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000255,
+         "Weight":2.0017500000000004
+      },
+      {
+         "TypeID":1377651,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000259,
+         "Weight":2.03315
+      },
+      {
+         "TypeID":1377652,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000263,
+         "Weight":2.06455
+      },
+      {
+         "TypeID":1377653,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000266,
+         "Weight":2.0881000000000003
+      },
+      {
+         "TypeID":1377654,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.00027,
+         "Weight":2.1195
+      },
+      {
+         "TypeID":1377655,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000266,
+         "Weight":2.0881000000000003
+      },
+      {
+         "TypeID":1377656,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000263,
+         "Weight":2.06455
+      },
+      {
+         "TypeID":1377657,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000259,
+         "Weight":2.03315
+      },
+      {
+         "TypeID":1377658,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000255,
+         "Weight":2.0017500000000004
+      },
+      {
+         "TypeID":1381252,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 12mm",
+         "Volume":0.000294,
+         "Weight":2.3079
+      },
+      {
+         "TypeID":1381253,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000102,
+         "Weight":0.8007
+      },
+      {
+         "TypeID":1381254,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000102,
+         "Weight":0.8007
+      },
+      {
+         "TypeID":1381255,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 12mm",
+         "Volume":0.000294,
+         "Weight":2.3079
+      },
+      {
+         "TypeID":1381256,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000199,
+         "Weight":1.5621500000000001
+      },
+      {
+         "TypeID":1381273,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 12mm",
+         "Volume":0.000294,
+         "Weight":2.3079
+      },
+      {
+         "TypeID":1381274,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000102,
+         "Weight":0.8007
+      },
+      {
+         "TypeID":1381275,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000102,
+         "Weight":0.8007
+      },
+      {
+         "TypeID":1381276,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 12mm",
+         "Volume":0.000294,
+         "Weight":2.3079
+      },
+      {
+         "TypeID":1381277,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000199,
+         "Weight":1.5621500000000001
+      },
+      {
+         "TypeID":1381290,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 12mm",
+         "Volume":0.000294,
+         "Weight":2.3079
+      },
+      {
+         "TypeID":1381291,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000102,
+         "Weight":0.8007
+      },
+      {
+         "TypeID":1381292,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000102,
+         "Weight":0.8007
+      },
+      {
+         "TypeID":1381293,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 12mm",
+         "Volume":0.000294,
+         "Weight":2.3079
+      },
+      {
+         "TypeID":1381294,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000199,
+         "Weight":1.5621500000000001
+      },
+      {
+         "TypeID":1433372,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 12mm",
+         "Volume":0.000294,
+         "Weight":2.3079
+      },
+      {
+         "TypeID":1433373,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000102,
+         "Weight":0.8007
+      },
+      {
+         "TypeID":1433374,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000102,
+         "Weight":0.8007
+      },
+      {
+         "TypeID":1433375,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 12mm",
+         "Volume":0.000294,
+         "Weight":2.3079
+      },
+      {
+         "TypeID":1433376,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000199,
+         "Weight":1.5621500000000001
+      },
+      {
+         "TypeID":1436871,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 12mm",
+         "Volume":0.000294,
+         "Weight":2.3079
+      },
+      {
+         "TypeID":1436872,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000102,
+         "Weight":0.8007
+      },
+      {
+         "TypeID":1436873,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000102,
+         "Weight":0.8007
+      },
+      {
+         "TypeID":1436874,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 12mm",
+         "Volume":0.000294,
+         "Weight":2.3079
+      },
+      {
+         "TypeID":1436875,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000199,
+         "Weight":1.5621500000000001
+      },
+      {
+         "TypeID":1436912,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 12mm",
+         "Volume":0.000294,
+         "Weight":2.3079
+      },
+      {
+         "TypeID":1436913,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000102,
+         "Weight":0.8007
+      },
+      {
+         "TypeID":1436914,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000102,
+         "Weight":0.8007
+      },
+      {
+         "TypeID":1436915,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 12mm",
+         "Volume":0.000294,
+         "Weight":2.3079
+      },
+      {
+         "TypeID":1436916,
+         "Material":"Reinforcement",
+         "Quality":"Structural Rebar 1",
+         "Volume":0.000199,
+         "Weight":1.5621500000000001
+      }
+   ]
+}
