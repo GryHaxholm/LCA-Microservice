@@ -1,11 +1,7 @@
-import pandas as pd
-import re
-import numpy as np
-from scipy.interpolate import interp1d, interp2d
-import json
+from scipy.interpolate import interp1d
 from app.resources import dataHandling
 
-#Working with the JSON files from the VC database
+#Working with the JSON files from the STR elements database
 structuralElements = dataHandling.structuralElements
 #Reading the LCA dataframe
 LCA_Data = dataHandling.LCA_Data

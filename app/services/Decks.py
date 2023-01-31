@@ -1,12 +1,9 @@
 import json
-import pandas as pd
-import re
 import numpy as np
-from scipy.interpolate import interp1d
 from app.resources import dataHandling
 from app.services import Inter_Ekstra_Polation
 
-#Working with the JSON files from the VC database
+#Working with the JSON files from the STR elements database
 structuralElements = dataHandling.structuralElements
 #Reading the LCA dataframe
 LCA_Data = dataHandling.LCA_Data
@@ -27,7 +24,9 @@ ext_32_C3 = Inter_Ekstra_Polation.ext_32_C3
 ext_32_C4 = Inter_Ekstra_Polation.ext_32_C4
 ext_32_D = Inter_Ekstra_Polation.ext_32_D
 
+#Initializing list for decks
 decksGWP_list= []
+#Initialising summing values
 sumGWP_A1tilA3 = 0
 sumGWP_C3 = 0
 sumGWP_C4 = 0 

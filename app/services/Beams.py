@@ -1,10 +1,8 @@
 import json
-import pandas as pd
-import re
 import numpy as np
 from app.resources import dataHandling
 
-#Working with the JSON files from the VC database
+#Working with the JSON files from the STR elements database
 structuralElements = dataHandling.structuralElements
 #Reading the LCA dataframe
 LCA_Data = dataHandling.LCA_Data

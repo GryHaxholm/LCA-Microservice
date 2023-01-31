@@ -1,12 +1,9 @@
 import json
-import pandas as pd
-import re
 import numpy as np
-from scipy.interpolate import interp1d
 from app.resources import dataHandling
 from app.services import Inter_Ekstra_Polation_Walls
 
-#Working with the JSON files from the VC database
+#Working with the JSON files from the STR elements database
 structuralElements = dataHandling.structuralElements
 #Reading the LCA dataframe
 LCA_Data = dataHandling.LCA_Data
@@ -27,7 +24,9 @@ ext_20_C3 = Inter_Ekstra_Polation_Walls.ext_20_C3
 ext_20_C4 = Inter_Ekstra_Polation_Walls.ext_20_C4
 ext_20_D = Inter_Ekstra_Polation_Walls.ext_20_D
 
+#Initializing list for exterior walls
 exteriorWallsGWP_list= []
+#Initialising summing values
 sumGWP_A1tilA3 = 0
 sumGWP_C3 = 0
 sumGWP_C4 = 0 

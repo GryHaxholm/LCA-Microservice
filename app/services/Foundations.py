@@ -1,15 +1,15 @@
 import json
-import pandas as pd
-import re
 import numpy as np
 from app.resources import dataHandling
 
-#Working with the JSON files from the VC database
+#Working with the JSON files from the STR elements database
 structuralElements = dataHandling.structuralElements
 #Reading the LCA dataframe
 LCA_Data = dataHandling.LCA_Data
 
+#Initializing list for foundations
 foundationsGWP_list= []
+#Initialising summing values
 sumGWP_A1tilA3 = 0
 sumGWP_C3 = 0
 sumGWP_C4 = 0 

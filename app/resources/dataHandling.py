@@ -3,7 +3,7 @@ import pandas as pd
 import re
 import numpy as np
 
-#Working with the JSON files from the VC database (Or this case directly from the c# codes)
+#Working with the JSON files from the Structural elements database from the CDE platform database (In this case directly from the c# codes)
 with open('app/resources/StructuralElements.json') as f:
     structuralElements = json.load(f)
 
