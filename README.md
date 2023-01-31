@@ -1,9 +1,9 @@
-# MICROSERVICE - LCACALC
+# LCA-Microservice
 
 ## How to run development server
 To run the development server, clone this repository to the desired location.
 
-**Run below code in MICROSERVICE - LCACALC**
+**Run below code in LCA-Microservice**
 
 **Step 1:**
 Create a virtual environment:
